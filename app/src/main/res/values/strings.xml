@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExHelloWorld</string>
+
+    <string name="greeting">Hello There</string>
+
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnGreet1">Greeting1</string>
+    <string name="btnGreet2">Greeting2</string>
+</resources>
